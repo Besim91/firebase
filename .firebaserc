@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "besimnotes": {
+      "hosting": {
+        "danotes": [
+          "besimnotes"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "besimnotes"
+  }
+}
